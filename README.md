@@ -5,7 +5,7 @@ A simple Keyboard-Piano emulator with realistic sound
 This script needs some things to work:  
 1. It needs to have fluidsynth .dlls in the same directory.  
 The dlls can be downloaded from https://www.fluidsynth.org/  
-Just copy ALL .dlls from fluidsynth/bin folder to script folder. 
+Just copy ALL .dlls from fluidsynth/bin folder to C:\Windows\System32 folder. 
 
 2. Install pyFluidSynth, it can be installed with the command: ```pip install pyfluidsynth```
 
